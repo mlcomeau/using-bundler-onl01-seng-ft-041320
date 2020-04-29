@@ -9,7 +9,6 @@ gem "awesome_print", git: 'github.com/awesome-print/awesome_print.git'
 group :development do
   gem "pry"
 end
-group :testing do 
+group :testing do
   gem "rspec"
-end 
-
+end
